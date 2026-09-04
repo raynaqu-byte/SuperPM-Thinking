@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 工坊案例归档：默认保留在本地、不上传公开仓库
+# （如需把某场案例纳入仓库：删除下面一行，或对该目录用 git add -f 强制添加）
+workshop/sessions/*/
+
+# 通用日志
+*.log
+.gh-token
